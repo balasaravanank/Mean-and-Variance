@@ -51,8 +51,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 
-# Developed by : PREETHI D
-# Register No : 212224040250
+# Developed by : BALA SARAVANAN K
+# Register No : 212224230031
 ```
   import numpy as np
   L=[int(i) for i in input().split()]
